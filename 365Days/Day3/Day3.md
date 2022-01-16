@@ -18,3 +18,10 @@
 [Youtube](https://www.youtube.com/watch?v=vYAkRsUmiA0&t=2605s)
 
 [Linkedin](https://www.linkedin.com/in/praveen-thiyagarayam-901131126)
+
+
+## TryHackMe CC Pentesting
+[TryHackMe](https://tryhackme.com/room/ccpentesting)
+
+-   Nmap
+-   Netcat
