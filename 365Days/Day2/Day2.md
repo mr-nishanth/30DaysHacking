@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 ## Channel jhaddix
 
 The Bug Hunter's Methodology Full 2-hour Training by Jason Haddix
