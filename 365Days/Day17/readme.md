@@ -3,7 +3,6 @@
 
 #### 30-01-2022
 
-
 # TryHackMe Rank  49299
 
 ## TryHackMe Mr Robot CTF

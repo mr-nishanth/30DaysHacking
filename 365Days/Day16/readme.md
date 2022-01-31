@@ -3,7 +3,6 @@
 
 #### 29-01-2022
 
-
 # TryHackMe Rank 49978
 
 ## TryHackMe CC: Steganography
