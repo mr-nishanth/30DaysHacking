@@ -21,7 +21,7 @@
 9.    Components with Known Vulnerabilities
 10.   Insufficent Logging & Monitoring
 
-
+---
 #	1.    Injection
 
 -	Injection flaws are very common in applications today.
@@ -29,7 +29,8 @@
 -	Injection attacks depend on what technologies are being used and how exactly the input is interpreted by these technologies.
 -	Some common examples include:
 
--       SQL Injection: This occurs when user controlled input is passed to SQL queries.
+	-	SQL Injection: This occurs when user controlled input is passed to SQL queries.
+-
 -	As a result, an attacker can pass in SQL queries to manipulate the outcome of such queries.
 
 -	Command Injection:
@@ -47,7 +48,7 @@
 	-	Let's consider a scenario: EvilCorp has started development on a web based shell but has accidentally left it exposed to the Internet.
 	-	It's nowhere near finished but contains the same command injection vulnerability as before!  But this time, the response from the system call can be seen on the page!  They'll never learn!
 
-
+---
 Q1.	What strange text file is in the website root directory?
 
 ```
@@ -80,7 +81,7 @@ Q1.	What strange text file is in the website root directory?
 ```
 
 ###	Ans: drpepper.txt
-
+---
 Q2.	How many non-root/non-service/non-daemon users are there?
 
 ```
@@ -117,15 +118,15 @@ pollinate:x:109:1::/var/cache/pollinate:/bin/false
 sshd:x:110:65534::/run/sshd:/usr/sbin/nologin
 
 ```
-
 ### Ans: 0
-
+---
 Q3.	What user is this app running as?
 
 ```
 www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
 
 ```
+---
 ###	Ans:	www-data
 
 Q4.	What is the user's shell set as?
@@ -135,7 +136,7 @@ www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
 
 ```
 ###	Ans :	/usr/sbin/nologin
-
+---
 Q4.	What version of Ubuntu is running?
 
 ```
@@ -161,7 +162,9 @@ Release:        18.04
 Codename:       bionic
 
 ```
+###	Ans:	18.04.4
 
+---
 Q5.	Print out the MOTD.  What favorite beverage is shown?
 
 MOTD	 Message of the data
@@ -223,5 +226,6 @@ printf "Welcome to %s (%s %s %s)\n" "$DISTRIB_DESCRIPTION" "$(uname -o)" "$(unam
 DR PEPPER MAKES THE WORLD TASTE BETTER!
 
 ```
-
 ###	Ans : DR PEPPER
+
+---
