@@ -20,7 +20,11 @@
 
 -	This element is the protection of data from unauthorized access and misuse.
 
--	for example, employee records and accounting documents will be considered sensitive. Confidentiality will be provided in the sense that only HR administrators will access employee records, where vetting and tight access controls are in place. Accounting records are less valuable (and therefore less sensitive), so not as stringent access controls would be in place for these documents.
+-	for example, employee records and accounting documents will be considered sensitive.
+
+-	Confidentiality will be provided in the sense that only HR administrators will access employee records, where vetting and tight access controls are in place.
+
+-	Accounting records are less valuable (and therefore less sensitive), so not as stringent access controls would be in place for these documents.
 
 ###	Integrity
 
@@ -43,7 +47,7 @@
 
 -	Having redundant technology and services in the case of failure of the primary
 
--	mplementing well-versed security protocols to protect technology and services from attack
+-	implementing well-versed security protocols to protect technology and services from attack
 
 
 
