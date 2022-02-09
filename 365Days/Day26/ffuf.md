@@ -1,10 +1,7 @@
 
-#	Day 27
-
-#### 07-02-2022
-
+#	Day 26
+#### 08-02-2022
 # TryHackMe Rank  33559 ( 60 Streak )
-
 
 # FFUF
 [TryHackMe ffuf](https://tryhackme.com/room/ffuf)
