@@ -1,8 +1,8 @@
-#	Day 29
+#	Day 30
 
 #### 12-02-2022
 
-# TryHackMe Rank  26002 ( 64 Streak )
+# TryHackMe Rank  25846 ( 64 Streak )
 
 ---
 
